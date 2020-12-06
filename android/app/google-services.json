@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13760164255",
+    "firebase_url": "https://healthnest-b7293.firebaseio.com",
+    "project_id": "healthnest-b7293",
+    "storage_bucket": "healthnest-b7293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13760164255:android:712bebcf5aa07eb67b0daa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13760164255-3bto4r0ri4hei3m3ji7b8ic97bnivnn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKRxgbK9A0Icp_LKE0xWudXBtnAJx3J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13760164255-3bto4r0ri4hei3m3ji7b8ic97bnivnn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
